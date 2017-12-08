@@ -1,1 +1,2 @@
-# WP-HW5 of Google Map developments
+# WP-HW5
+# Google Map newbie
